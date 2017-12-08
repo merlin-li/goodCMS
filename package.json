@@ -3,15 +3,14 @@
   "description": "CMS内容管理系统",
   "version": "1.4.0",
   "author": {
-    "name": "Welkin Wong",
-    "email": "welkin.wong@me.com"
+    "name": "limeng",
+    "email": "13020102221@163.com"
   },
   "license": "AGPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/welkinwong/nodercms.git"
+    "url": "https://github.com/merlin-li/goodCMS.git"
   },
-  "homepage": "https://www.nodercms.com",
   "keywords": [
     "NoderCMS",
     "node cms",
@@ -64,6 +63,6 @@
     "start": "node ./bin/www"
   },
   "bugs": {
-    "url": "https://github.com/welkinwong/nodercms/issues"
+    "url": "https://github.com/merlin-li/goodCMS.git/issues"
   }
 }

@@ -186,7 +186,7 @@ module.exports = {
   '*': { get: 'install.access' },
 
   // 首页
-  '/': { get: 'home'},
+  // '/': { get: 'home'},
 
   // 搜索页
   '/search': { get: 'search' },
